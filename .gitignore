@@ -1,0 +1,5 @@
+# This is the example code for each aws service we see in the course
+aws-services-code
+
+# Ignoring the slides of the course
+*.pdf
